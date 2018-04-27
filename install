@@ -34,7 +34,7 @@ function end(){
   echo "2 | As reseller, go to the skin manager"
   echo "3 | Select DA-PersianGulf-skin and apply to me"
   bar
-  echo "Thanks for using DA-PersianGulf skin"
+  echo "Thanks for using DA PersianGulf skin"
   bar
 }
 
